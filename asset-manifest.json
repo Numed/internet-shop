@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/internet-shop/static/css/main.294b971b.css",
+    "main.js": "/internet-shop/static/js/main.03aab232.js",
+    "static/media/bestItems.jpg": "/internet-shop/static/media/bestItems.0a7b9cd461a37b4bc66a.jpg",
+    "static/media/HeaderSection.png": "/internet-shop/static/media/HeaderSection.e970ec05f1c2c9cb2c2e.png",
+    "static/media/header.png": "/internet-shop/static/media/header.53e8960521f177b3f221.png",
+    "static/media/header.jpg": "/internet-shop/static/media/header.35a313742cfd39312f6a.jpg",
+    "static/media/coffe.jpg": "/internet-shop/static/media/coffe.b9403628544ae76ac2fa.jpg",
+    "static/media/coffeImg.png": "/internet-shop/static/media/coffeImg.9c1f2ea170e5e7bfcbc9.png",
+    "static/media/sectionPhoto.jpg": "/internet-shop/static/media/sectionPhoto.b409eaa4aaffb291bdc7.jpg",
+    "static/media/cardImg.png": "/internet-shop/static/media/cardImg.dcb91dcba4b6b965f048.png",
+    "static/media/solimo.png": "/internet-shop/static/media/solimo.93b7ca5e4837fd856f71.png",
+    "static/media/presto.png": "/internet-shop/static/media/presto.eac7a0065dc6e158d889.png",
+    "index.html": "/internet-shop/index.html",
+    "main.294b971b.css.map": "/internet-shop/static/css/main.294b971b.css.map",
+    "main.03aab232.js.map": "/internet-shop/static/js/main.03aab232.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.294b971b.css",
+    "static/js/main.03aab232.js"
+  ]
+}
