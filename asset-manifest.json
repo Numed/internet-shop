@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/internet-shop/static/css/main.294b971b.css",
-    "main.js": "/internet-shop/static/js/main.03aab232.js",
+    "main.js": "/internet-shop/static/js/main.e81a93f8.js",
     "static/media/bestItems.jpg": "/internet-shop/static/media/bestItems.0a7b9cd461a37b4bc66a.jpg",
     "static/media/HeaderSection.png": "/internet-shop/static/media/HeaderSection.e970ec05f1c2c9cb2c2e.png",
     "static/media/header.png": "/internet-shop/static/media/header.53e8960521f177b3f221.png",
@@ -14,10 +14,10 @@
     "static/media/presto.png": "/internet-shop/static/media/presto.eac7a0065dc6e158d889.png",
     "index.html": "/internet-shop/index.html",
     "main.294b971b.css.map": "/internet-shop/static/css/main.294b971b.css.map",
-    "main.03aab232.js.map": "/internet-shop/static/js/main.03aab232.js.map"
+    "main.e81a93f8.js.map": "/internet-shop/static/js/main.e81a93f8.js.map"
   },
   "entrypoints": [
     "static/css/main.294b971b.css",
-    "static/js/main.03aab232.js"
+    "static/js/main.e81a93f8.js"
   ]
 }
