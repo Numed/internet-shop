@@ -44,10 +44,10 @@ export const SectionInner = styled.div`
   height: 100%;
   display: flex;
   align-items: center;
+  justify-content: center;
   margin-bottom: 60px;
 
   @media (max-width: 580px) {
-    justify-content: center;
     flex-direction: column;
   }
 `;

@@ -12,9 +12,8 @@ import beans from "../../img/sectionImg.png";
 import { useParams } from "react-router-dom";
 
 const SectionImg = styled(ImgSection)`
-margin: 0 auto;
-
 @media (max-width: 400px){
+    margin: 0 auto;
     display: flex;
     justify-content: center;
 }

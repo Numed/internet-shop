@@ -124,16 +124,20 @@ const HeaderSection = () => {
       <NavContainer>
         <NavUl className="navbar">
           <li>
-            <NavLink to="/">
+            <NavLink end to="/">
               <img src={logo} alt="Logo" />
               {"Coffe house"}
             </NavLink>
           </li>
           <li>
-            <NavLink to="/our-coffe">Our coffee</NavLink>
+            <NavLink end to="/our-coffe">
+              Our coffee
+            </NavLink>
           </li>
           <li>
-            <NavLink to="/for-pleasure">For your pleasure</NavLink>
+            <NavLink end to="/for-pleasure">
+              For your pleasure
+            </NavLink>
           </li>
         </NavUl>
       </NavContainer>
